@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkremote_app=self.webpackChunkremote_app||[]).push([[990],{990:(e,t,n)=>{n.r(t),n.d(t,{default:()=>a});var r=n(782),p=n.n(r);const a=function(){return p().createElement("h2",null,"This is a Micro-Frontend from Remote App!")}}}]);
